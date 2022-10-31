@@ -4,6 +4,7 @@ Here the following tasks are done:
 - User inputs are sent dynamically
 - Radio and checkboxes are validated
 - Intial date picker removed and added a new date
+- Current Address added
 - pictures uploaded and submitted the data.
 
 
