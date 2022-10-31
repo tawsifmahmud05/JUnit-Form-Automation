@@ -1,15 +1,25 @@
 ## JUnit_Form_Automation and Junit_demoqa_test automation
 Here the following tasks are done:
-- Form is automated using Junit utilizing [Automation Practice Form](https://demoqa.com/automation-practice-form)
+- Form is automated using Junit utilizing 
 - User inputs are sent dynamically
 - Radio and checkboxes are validated
 - Intial date picker removed and added a new date
 - pictures uploaded and submitted the data.
-- The submitted data are extracted from the table and stored in a students.json file.
-Practice Form automation code can be extracted from this [link](https://github.com/NibrazKhan/JUnit_Form_Automation/blob/main/src/test/java/PracticeForm/Practice_Form.java).
 
-Different elements from [Demoqa](https://demoqa.com/) is tested and Automated like **Writing Texts** ,**handling alerts**, **selecting dropdown**,**modal dialogs**,**mouse hover**,**date picker**,**keyboard event**,**action click**,**taking screenshot**,**handling windows**,**uploading and downloading** etc. </br>
-JUnit Automation codes can be extracted from this [link](https://github.com/NibrazKhan/JUnit_Form_Automation/blob/main/src/test/java/JUnitTests/JunitAutomation.java)
+
+## Testcases are tested through Junit and the Scenerios are,
+- Varify form with Valid Data
+- Varify form with empty FirstName
+- Varify form with empty LastName
+- Varify form with invalid Email
+- Varify form with invalid PhoneNo
+- Varify form with invalid DOB
+- Varify form with no Hobby
+- Varify form with no Gender
+- Varify form with empty Subject
+- Varify form with invalid File
+- Varify form with no State City
+
 ### Technology: </br>
 - Tool: Selenium
 - IDE: Intellij
@@ -22,3 +32,4 @@ JUnit Automation codes can be extracted from this [link](https://github.com/Nibr
  ```
 - The following report is generated:
    
+![Capture](https://user-images.githubusercontent.com/85132422/199065707-9c80e9cc-1315-48e0-9ba5-52d2bf5aae02.PNG)
