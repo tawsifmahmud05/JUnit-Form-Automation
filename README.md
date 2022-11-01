@@ -1,4 +1,4 @@
-## JUnit_Form_Automation and Junit_demoqa_test automation
+## JUnit-Form-Automation with TestCases & Report
 Here the following tasks are done:
 - Form is automated using Junit utilizing 
 - User inputs are sent dynamically
