@@ -35,5 +35,5 @@ Testcases are:
  gradle clean test 
  ```
 - The following report is generated:
-   ![Capture](https://user-images.githubusercontent.com/85132422/199203862-c54e79b4-5713-47dc-bfbd-81d5b98662c9.PNG)
 
+ ![Capture](https://user-images.githubusercontent.com/85132422/199203862-c54e79b4-5713-47dc-bfbd-81d5b98662c9.PNG)
