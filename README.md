@@ -8,9 +8,10 @@ Here the following tasks are done:
 - pictures uploaded and submitted the data.
 
 
-## Testcases are tested through Junit and the Scenerios are,
+## Testcases
+As many as egative testcases are generated and described the this google sheet [link](https://docs.google.com/spreadsheets/d/1E8cdCjJKg039UWqYsYfEiUSxNY9q9FVoiPYAGluIQcY/edit#gid=0) 
 
-TestCase links are : [link](https://docs.google.com/spreadsheets/d/1E8cdCjJKg039UWqYsYfEiUSxNY9q9FVoiPYAGluIQcY/edit#gid=0) 
+Testcases are:
 - Varify form with Valid Data
 - Varify form with empty FirstName
 - Varify form with empty LastName
@@ -34,5 +35,5 @@ TestCase links are : [link](https://docs.google.com/spreadsheets/d/1E8cdCjJKg039
  gradle clean test 
  ```
 - The following report is generated:
-   
-![Capture](https://user-images.githubusercontent.com/85132422/199065707-9c80e9cc-1315-48e0-9ba5-52d2bf5aae02.PNG)
+   ![Capture](https://user-images.githubusercontent.com/85132422/199203862-c54e79b4-5713-47dc-bfbd-81d5b98662c9.PNG)
+
